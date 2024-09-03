@@ -1,4 +1,4 @@
-# Basic Linux for Cloud & DevOps Engineers
+# Linux for Cloud & DevOps Engineers
 
 ![linux](https://imgur.com/VpPW8PM.png)
 
